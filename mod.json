@@ -1,8 +1,8 @@
 {
   "name": "Easier World Events",
-  "description": "Adds cube recipes for easier access to Uber Tristram and Uber Diablo. A Full Rejuvenation Potion opens a Pandemonium Portal. An amulet creates the three ingredients to open a Pandemonium Finale Portal. A ring creates a Stone of Jordan. Put any ring into the cube and transform. You will get back that ring plus a Stone of Jordan. Sell the Stone of Jordan to any vendor to let Uber Diablo spawn at the location of the next superunique you see (e.g. Rakanishu or Bischibosch).",
+  "description": "Adds cube recipes for easier access to Uber Tristram and Uber Diablo. A Full Rejuvenation Potion creates the three keys to open a Pandemonium Portal. An amulet creates the three ingredients to open a Pandemonium Finale Portal. A ring creates a Stone of Jordan. Put any ring into the cube and transform. You will get back that ring plus a Stone of Jordan. Sell the Stone of Jordan to any vendor to let Uber Diablo spawn at the location of the next superunique you see (e.g. Rakanishu or Bischibosch).",
   "author": "erSch",
-  "website": "",
+  "website": "https://www.nexusmods.com/diablo2resurrected/mods/349",
   "version": "1.0",
   "config": [
     {
